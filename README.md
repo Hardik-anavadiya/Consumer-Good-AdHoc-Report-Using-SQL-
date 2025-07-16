@@ -95,7 +95,8 @@ This project demonstrated the power of SQL in rapidly generating meaningful insi
 ## 🔗 Project File
 
 ## 📂 Project Files
+## 📂 Project Files
 
 📄 [`Adhoc Report Using SQL.pdf`](Adhoc%20Report%20Using%20SQL.pdf) – Contains detailed queries, outputs, insights, and recommendations.  
 📄 [`Adhoc report queries.sql`](Adhoc%20report%20queries.sql) – View full SQL queries and stored procedures.  
-📄 [`output_of_queries.xlsx`](Output%20of%20queries.csv) – Raw output data generated from the executed SQL queries.
+📊 [`output_of_queries.xlsx`](output_of_queries.xlsx) – Contains all 6 query outputs combined into one Excel file with separate sheets.
