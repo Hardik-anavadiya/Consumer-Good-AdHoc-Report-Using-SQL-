@@ -95,3 +95,5 @@ This project demonstrated the power of SQL in rapidly generating meaningful insi
 ## 🔗 Project File
 
 📄 [`Adhoc Report Using SQL.pdf`](Adhoc%20Report%20Using%20SQL.pdf) – Contains detailed queries, outputs, insights, and recommendations.
+📄 [`Adhoc report queries.sql`](Adhoc%20report%20queries.sql) – View full SQL queries and stored procedures.
+
